@@ -5,7 +5,7 @@
 </p>
 
 # Introduction
-This repo contains codes and documentations for two project of the "Computational Numerical Statistics" course attended at NOVA Faculdade de Ciencias e Tecnologia, in Lisbon.
+This repo contains codes and documentations for four project of the "Computational Numerical Statistics" course attended at NOVA Faculdade de Ciencias e Tecnologia, in Lisbon.
 
 The course attended was completely taught in Portuguese.
 
